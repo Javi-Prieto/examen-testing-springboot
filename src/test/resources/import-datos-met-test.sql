@@ -1,0 +1,1 @@
+insert into dato_meteorologico (precipitacion,ciudad,fecha) values (20, 'Sevilla', CURRENT_DATE)
